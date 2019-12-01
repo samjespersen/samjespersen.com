@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Solway&display=swap');
+
+.Letter {
+        font-size: 3em;
+        user-select: none;
+        pre {
+            font-family: 'Solway'; 
+            font-weight: 590;
+        }
+
+}
+.changeColor {
+
+    pre:hover {
+        color:hotpink;
+    }
+}
