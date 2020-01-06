@@ -1,0 +1,19 @@
+p {
+    font-family: 'Solway';
+    color: #1B1C1B
+}
+
+body{
+    background-color: #232423;
+}
+
+body, html {
+    width: 95vw;
+    padding: 20px 0;
+}
+
+a {
+    color: lightskyblue;
+    font-weight: bolder;
+    text-decoration-line: none;
+}
